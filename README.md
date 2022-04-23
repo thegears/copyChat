@@ -1,5 +1,5 @@
 # copyChat
-Copy chat fronm another server ( Başka bir sunucudan sohbet kopyala )
+Copy chat from another server ( Başka bir sunucudan sohbet kopyala )
 
 Seçtiğiniz sunucudaki bir kanaldan yazılanları sizin sunucunuza yansıtarak aktifliği artırır.
 
